@@ -1,0 +1,26 @@
+wake up
+1
+Hello
+2
+Bye
+3
+Error
+4
+help
+5
+SSL
+6
+good morning
+7
+good afternoon
+8
+good night
+9
+sleep
+10
+jira
+11
+confluence
+12
+tasks
+13
